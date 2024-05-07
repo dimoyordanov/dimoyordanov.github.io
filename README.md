@@ -1,2 +1,1 @@
-# dimoyordanov.github.io
-My personal page
+# Dimo's blog
