@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Welcome to my new Blog!
 author: Dimo Yordanov
-header-style: text
 ---
 
 I have been coding for about 8 years
