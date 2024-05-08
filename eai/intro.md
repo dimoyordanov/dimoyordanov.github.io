@@ -12,7 +12,7 @@ author: Димо Йорданов
 
 ## Защo контекстно свободни езици
 - Позволяват ни да разпознаваме по сложни езици и структури
-  - Пример е $\{a^nb^n \mid n\in \mathbb{N} \}$
+  - Пример е \\(\{a^nb^n \mid n\in \mathbb{N} \}\\)
 
 ## Малко забележки
 - Пиша доста бавно latex затова добавям следните означения
@@ -25,9 +25,9 @@ author: Димо Йорданов
     както за нула стъпка така отбелязвам за няколко стъпки същп
 
 ## Съдържания
-- [https://dimoyordanov.github.io/eai/grammars](Граматики)
-- [https://dimoyordanov.github.io/eai/parse_trees](Синтактизни дървета)
-- [https://dimoyordanov.github.io/eai/conclusions_on_parse_trees](Извод върху синтактично дърво)
+- [Граматики](https://dimoyordanov.github.io/eai/grammars)
+- [Синтактизни дървета](https://dimoyordanov.github.io/eai/parse_trees)
+- [Извод върху синтактично дърво](https://dimoyordanov.github.io/eai/conclusions_on_parse_trees)
 - Лема за покачване
 - Опростяване на безконтекстни граматики
 - Нормална форма на Чомски
