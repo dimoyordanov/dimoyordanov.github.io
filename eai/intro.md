@@ -4,7 +4,6 @@ author: Димо Йорданов
 ---
 
 <!-- TOC -->
-* [Безконтекстни езици и стекови автомати](#безконтекстни-езици-и-стекови-автомати)
   * [Защo контекстно свободни езици](#защo-контекстно-свободни-езици)
   * [Малко забележки](#малко-забележки)
   * [Съдържания](#съдържания)
@@ -28,6 +27,7 @@ author: Димо Йорданов
 - [Граматики](https://dimoyordanov.github.io/eai/grammars)
 - [Синтактизни дървета](https://dimoyordanov.github.io/eai/parse_trees)
 - [Извод върху синтактично дърво](https://dimoyordanov.github.io/eai/conclusions_on_parse_trees)
+- [Еднозначност в граматикитите и апроксимация на безконтекстен език](https://dimoyordanov.github.io/eai/ambigious_grammar_aproximation_of_contextless_langues)
 - Лема за покачване
 - Опростяване на безконтекстни граматики
 - Нормална форма на Чомски
