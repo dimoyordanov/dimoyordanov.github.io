@@ -28,7 +28,7 @@ author: Димо Йорданов
 - [Синтактизни дървета](https://dimoyordanov.github.io/eai/parse_trees)
 - [Извод върху синтактично дърво](https://dimoyordanov.github.io/eai/conclusions_on_parse_trees)
 - [Еднозначност в граматикитите и апроксимация на безконтекстен език](https://dimoyordanov.github.io/eai/ambigious_grammar_aproximation_of_contextless_langues)
-- Лема за покачване
+- [Лема за покачване](https://dimoyordanov.github.io/eai/pumping_lemma)
 - Опростяване на безконтекстни граматики
 - Нормална форма на Чомски
 - Принадлежност
