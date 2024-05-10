@@ -29,8 +29,8 @@ author: Димо Йорданов
 - [Извод върху синтактично дърво](https://dimoyordanov.github.io/eai/conclusions_on_parse_trees)
 - [Еднозначност в граматикитите и апроксимация на безконтекстен език](https://dimoyordanov.github.io/eai/ambigious_grammar_aproximation_of_contextless_langues)
 - [Лема за покачване](https://dimoyordanov.github.io/eai/pumping_lemma)
-- Опростяване на безконтекстни граматики
-- Нормална форма на Чомски
-- Принадлежност
-- Недетерминиран стеков автомат
-- Еквивалентност
+- [Опростяване на безконтекстни граматики](https://dimoyordanov.github.io/eai/simplifying_context_free_language)
+- [Нормална форма на Чомски](https://dimoyordanov.github.io/eai/normal_chomski_form)
+- [Принадлежност](https://dimoyordanov.github.io/eai/cyk)
+- [Недетерминиран стеков автомат](https://dimoyordanov.github.io/eai/pushdown_automaton)
+- [Еквивалентност](https://dimoyordanov.github.io/eai/equvilance_proof)
